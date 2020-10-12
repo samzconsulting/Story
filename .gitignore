@@ -1,0 +1,13 @@
+# This is a comment. Add all files to be ignored by 'git add' here
+
+# Passwords
+file.passwords
+
+# API Keys
+file.apikeys 
+
+# You can use wildcards 
+*.secrets
+
+# Hidden Files
+.DS_Store
